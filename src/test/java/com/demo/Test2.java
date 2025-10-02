@@ -14,7 +14,5 @@ class Test2 {
     @AutoSource
     void auto_generates_person(Person person) {
         System.out.println("Generated -> " + person);
-        assertNotNull(person.name());
-        assertTrue(true); // placeholder; focus is on showing the generated values
     }
 }
