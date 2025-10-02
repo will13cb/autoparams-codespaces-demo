@@ -2,7 +2,6 @@
 
 package com.demo;
 
-import autoparams.ValueAutoSource;
 import org.junit.jupiter.params.ParameterizedTest;
 
 import autoparams.AutoSource;

@@ -1,4 +1,4 @@
-// creates person objects
+// Creates person objects
 
 package com.demo;
 
