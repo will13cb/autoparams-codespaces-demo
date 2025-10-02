@@ -1,11 +1,11 @@
-// Quick way to show how to combine fixed values + generated values.
+// Mix entre valeurs fixes et générées
 
 package com.demo;
 
 import autoparams.ValueAutoSource;
 import org.junit.jupiter.params.ParameterizedTest;
 
-class ValueAutoSourceDemoTest {
+class Test3 {
 
     @ParameterizedTest
     @ValueAutoSource(ints = {18, 30, 65})

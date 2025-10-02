@@ -1,13 +1,11 @@
-// AutoParams looks at the parameter types in my test,
-// uses built-in generators for primitives and strings,
-// and recursively fills objects via their constructors
+// Génère des objets sans mentionner quels types de valeurs on veut
 
 package com.demo;
 
 import autoparams.AutoParams;
 import org.junit.jupiter.api.Test;
 
-class AutoParamsDemo {
+class Test4 {
 
     @Test
     @AutoParams

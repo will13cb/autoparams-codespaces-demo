@@ -1,4 +1,4 @@
-// Generates string, int, bool values
+// Génère des valeurs string, int, bool
 
 package com.demo;
 
@@ -7,7 +7,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import autoparams.AutoSource;
 import autoparams.Repeat;
 
-class AutoParamsDemoTest {
+class Test1 {
 
     @ParameterizedTest(name = "[{index}] text={0}, number={1}, flag={2}")
     @AutoSource

@@ -1,4 +1,4 @@
-// Creates person objects
+// Génère des objets
 
 package com.demo;
 
@@ -8,7 +8,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 
 import autoparams.AutoSource;
 
-class PersonTest {
+class Test2 {
 
     @ParameterizedTest(name = "[{index}] Generated person: {0}")
     @AutoSource
